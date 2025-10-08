@@ -18,9 +18,9 @@ Refactoring-ი და Unit Testing(დამოუკიდებელი ე�
 
 # **ლექცია 5 - კომპიუტერის არქიტექტურა და პერფორმატიულობასთან დაკავშირებული საკითხები**
 CPU, RAM, ROM, RAM(გაშვებული კოდი) vs ROM(ჩაწერილი კოდი)
-ასინქრონულობა და პარალელიზმი - Async vs Multithread!
-CPU bound vs RAM bound 
-Heap vs Stack memories
+ასინქრონულობა და პარალელიზმი - Async vs Multithread
+CPU bound vs I/O bound 
+Heap vs Stack memory
 Recursion vs Loop, რეკურსია
 
 # **ლექცია 6 - ფაილებთან მუშაობა**
