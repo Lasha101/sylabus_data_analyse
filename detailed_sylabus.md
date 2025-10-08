@@ -17,10 +17,10 @@ List Comprehension-ი
 Refactoring-ი და Unit Testing(დამოუკიდებელი ერთეულის ტესტირება)
 
 # **ლექცია 5 - კომპიუტერის არქიტექტურა და პერფორმატიულობასთან დაკავშირებული საკითხები**
-CPU, RAM, ROM, RAM(გაშვებული კოდი) vs ROM(ჩაწერილი კოდი)
-ასინქრონულობა და პარალელიზმი - Async vs Multithread
-CPU bound vs I/O bound 
-Heap vs Stack memory
+CPU, RAM, ROM, RAM(გაშვებული კოდი) vs ROM(ჩაწერილი კოდი), 
+ასინქრონულობა და პარალელიზმი - Async vs Multithread, 
+CPU bound vs I/O bound, 
+Heap vs Stack memory, 
 Recursion vs Loop, რეკურსია
 
 # **ლექცია 6 - ფაილებთან მუშაობა**
